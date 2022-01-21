@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="title">学科之间的关系</view>
+
+  <view class="ID_Badge">
+    <view>
+      <image class='pic' mode='widthFix' src='../../image/relation.jpg' bindtap='previewImage'></image>
+    </view>
+  </view>
+
+</view>

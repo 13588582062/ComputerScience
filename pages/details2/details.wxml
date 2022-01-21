@@ -1,0 +1,18 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="title">学科关系图</view>
+
+  <view class="ID_Badge">
+    <view>
+      <image class='pic' mode='widthFix' src='../../image/relation.jpg' bindtap='previewImage'></image>
+    </view>
+  </view>
+  <view class="environment" bindtap="onChangeShowEnvChoose">各学科作用</view>
+  <view class="ID_Badge">
+    <view>
+      <image class='pic' mode='widthFix' src='../../image/111.jpg' bindtap='previewImage'></image>
+    </view>
+  </view>
+  <view class="environment" bindtap="onChangeShowEnvChoose">西安交通大学</view>
+</view>
+

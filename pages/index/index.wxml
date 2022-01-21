@@ -1,0 +1,31 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+    <block wx:else>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
+      <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+    </block>
+  </view>
+   <!-- <view class="usermotto">
+    <text class="user-motto">{{motto}}</text>
+  </view>  -->
+
+  <view class="ID_Badge">
+    <view>
+      <text class="ID_info">{{company}}</text>
+    </view>
+    <view>
+      <text class='ID_info'>{{position}}</text>
+    </view>
+    <view>
+      <text class='ID_info'>{{lesson}}</text>
+    </view>
+  </view>
+
+  <view>
+    <image class='pic' mode='widthFix' src='../../image/000.jpg' bindtap='previewImage'></image>
+  </view>
+  <view class="environment" bindtap="onChangeShowEnvChoose">计算机科学与技术 徐望瀚</view>
+
+</view>

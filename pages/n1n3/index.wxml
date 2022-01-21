@@ -1,0 +1,9 @@
+<view class="page">
+  <view class="title">《数据结构与算法》</view>
+  <image class="img" src="../../image/n1n3_1.jpg"></image>
+  <view class="info">https://pan.baidu.com/s/1eM8R5so-j0d1qYWFrju-Xg</view>
+  <view class="title">提取码</view>
+  <view class="info">xjtu</view>
+  <view class="title">二维码</view>
+  <image class="img" src="../../image/shuju.png"></image>
+</view>

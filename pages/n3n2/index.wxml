@@ -1,0 +1,9 @@
+<view class="page">
+  <view class="title">《C++Primer》</view>
+  <image class="img" src="../../image/n3n2.jpg"></image>
+  <view class="info">https://pan.baidu.com/s/1No-agIXpRnet51wTxSIteA</view>
+  <view class="title">提取码</view>
+  <view class="info">xjtu</view>
+  <view class="title">二维码</view>
+  <image class="img" src="../../image/c.png"></image>
+</view>

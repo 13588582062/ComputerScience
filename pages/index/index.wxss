@@ -1,0 +1,48 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+.ID_Badge {
+  padding-top: 20rpx;
+  color: blue;
+}
+
+.ID_info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pics {
+  width: 400rpx;
+}
+
+page {
+  padding-top: 54rpx;
+  background-color: #ffffff;
+  padding-bottom: 60rpx;
+}
+
+.environment {
+  color: rgba(0, 0, 0, 0.4);
+  font-size: 24rpx;
+  margin-top: 25%;
+}

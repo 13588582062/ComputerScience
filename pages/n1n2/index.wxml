@@ -1,0 +1,10 @@
+<view class="page">
+  <view class="title">非线性结构</view>
+  <view class="info">逻辑特征是一个结点元素可能有多个直接前驱和多个直接后继</view>
+  <view class="title">举例</view>
+  <view class="info">二维数组、多维数组、广义表、树结构、图结构</view>
+  <view class="title">二叉树</view>
+  <image class="img" src="../../image/n1n2_1.jpg"></image>
+  <view class="title">图</view>
+  <image class="img" src="../../image/n1n2_2.png"></image>
+</view>

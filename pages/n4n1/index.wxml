@@ -1,0 +1,13 @@
+<view class="page">
+  <view class="title">基本概念</view>
+  <view class="info">计算机网络是指将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统，网络管理软件及网络通信协议的管理和协调下，实现资源共享和信息传递的计算机系统。</view>
+  <view class="title">局域网</view>
+  <view class="info">通常我们常见的“LAN”就是指局域网，这是我们最常见、应用最广的一种网络。局域网随着整个计算机网络技术的发展和提高得到充分的应用和普及，几乎每个单位都有自己的局域网，有的甚至家庭中都有自己的小型局域网。局域网在计算机数量配置上没有太多的限制，少的可以只有两台，多的可达几百台。</view>
+  <image class="img" src="../../image/n4n1_1.jpg"></image>
+  <view class="title">城域网</view>
+  <view class="info">（MAN） 这种网络一般来说是在一个城市，但不在同一地理小区范围内的计算机互联。这种网络的连接距离可以在10-100公里。MAN与LAN相比扩展的距离更长，连接的计算机数量更多，在地理范围上可以说是LAN网络的延伸。在一个大型城市或都市地区，一个MAN网络通常连接着多个LAN网。如连接政府机构的LAN、医院的LAN、电信的LAN、公司企业的LAN等等。由于光纤连接的引入，使MAN中高速的LAN互连成为可能。</view>
+  <image class="img" src="../../image/n4n1_2.jpg"></image>
+  <view class="title">广域网</view>
+  <view class="info">（WAN） 这种网络也称为远程网，所覆盖的范围比城域网（MAN）更广，它一般是在不同城市之间的LAN或者MAN网络互联，地理范围可从几百公里到几千公里。通过IMP（接口信息处理）协议和线路连接起来，构成网状结构，解决循径问题。这种城域网因为所连接的用户多，总出口带宽有限，所以用户的终端连接速率一般较低，通常为9.6Kbps-45Mbps 如：邮电部的CHINANET，CHINAPAC，和CHINADDN网。</view>
+  <image class="img" src="../../image/n4n1_3.jpg"></image>
+</view>

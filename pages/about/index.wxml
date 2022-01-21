@@ -1,0 +1,14 @@
+<view class="page">
+  <view class="title">线性结构</view>
+  <view class="info">线性结构是一个有序数据元素的集合。常用的线性结构有：线性表，栈，队列，双队列，串。</view>
+  <view class="title">特征</view>
+  <view class="info">1．集合中必存在唯一的一个"第一个元素"；</view>
+  <view class="info">2．集合中必存在唯一的一个"最后的元素"；</view>
+  <view class="info">3．除最后元素之外，其它数据元素均有唯一的"后继"；</view>
+  <view class="info">4．除第一元素之外，其它数据元素均有唯一的"前驱"。</view>
+  <view class="info">数据结构中线性结构指的是数据元素之间存在着“一对一”的线性关系的数据结构。</view>
+  <view class="title">顺序表</view>
+  <image class="img" src="../../image/n1n1_1.png"></image>
+  <view class="title">链表</view>
+  <image class="img" src="../../image/n1n1_2.jpg"></image>
+</view>
