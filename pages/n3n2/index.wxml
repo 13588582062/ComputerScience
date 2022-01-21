@@ -5,5 +5,7 @@
   <view class="title">提取码</view>
   <view class="info">xjtu</view>
   <view class="title">二维码</view>
-  <image class="img" src="../../image/c.png"></image>
+  <view>
+      <image class='pic' mode='widthFix' src='../../image/c.png' bindtap='previewImage'></image>
+  </view>
 </view>

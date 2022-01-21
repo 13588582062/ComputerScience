@@ -7,10 +7,22 @@
       <image class='pic' mode='widthFix' src='../../image/relation.jpg' bindtap='previewImage'></image>
     </view>
   </view>
-  <view class="environment" bindtap="onChangeShowEnvChoose">各学科作用</view>
+  <view class="title">各学科作用</view>
   <view class="ID_Badge">
     <view>
       <image class='pic' mode='widthFix' src='../../image/111.jpg' bindtap='previewImage'></image>
+    </view>
+  </view>
+  <view class="title">对计算机专业的认识</view>
+  <view class="ID_Badge">
+    <view>
+      <image class='pic' mode='widthFix' src='../../image/think.jpg' bindtap='previewImage'></image>
+    </view>
+  </view>
+  <view class="title">我的学业规划</view>
+  <view class="ID_Badge">
+    <view>
+      <image class='pic' mode='widthFix' src='../../image/my.jpg' bindtap='previewImage'></image>
     </view>
   </view>
   <view class="environment" bindtap="onChangeShowEnvChoose">西安交通大学</view>
